@@ -27,6 +27,14 @@ git config --global user.email leonardo@software-ltda.com.br
 Setar editor
 git config --global core.editor vim
 
+Comandos do vim
+
+Para abrir um arquivo com vim
+vim arquivo.txt
+
+Para fazer algum comando dentro do vim aperte ESC, :w(para escrever), q(para sair).
+:wq
+
 Setar ferramenta de merge
 git config --global merge.tool vimdiff
 
